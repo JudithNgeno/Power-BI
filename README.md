@@ -1,6 +1,6 @@
 # POWER-BI
 ## OVERVIEW
-This repository documents a Power BI dashboard that analyses UK traffic camera activity between 2021 and 2023 using open data from the Office for National Statistics (ONS) "Traffic camera activity" dataset. The project explores how movement patterns for pedestrians, cyclists, cars, buses, vans, and trucks evolved across key UK regions (London, Greater Manchester region in the period following the COVID-19 pandemic. 
+This repository documents a Power BI dashboard that analyses UK traffic camera activity between 2021 and 2023 using open data from the Office for National Statistics (ONS) "Traffic camera activity" dataset. The project explores how movement patterns for pedestrians, cyclists, cars, buses, vans, and trucks evolved across key UK regions (London, Greater Manchester, North East, Nothern Ireland, Reading, and Southend) regions in the period following the COVID-19 pandemic. 
 ## DATA SOURCE
 [download here] (https://www.ons.gov.uk/filter-outputs/f82a8818-2222-4d71-ac5a-6ad094050656)
 ## PROJECT PURPOSE
